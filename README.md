@@ -14,3 +14,4 @@ then click install. It installs all of the required pip packages and to run the 
 ```sh
 python main.py
 ```
+please note that if the install.py window reports not responding it is doing still stuff in the background
